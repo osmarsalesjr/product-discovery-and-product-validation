@@ -1,2 +1,3 @@
 # product-discovery-and-product-validation
-Repositório para documentação do Ozzy, bot de automação simples de automação
+Repositório de artefatos gerados do trabalho da disciplina Metodologias Ágeis e Validação de Produtos do curso Inteligência 
+Artificial e Automação Digital.
