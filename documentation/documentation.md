@@ -22,8 +22,8 @@ para tomar decisões.
 
 O objetivo da Product Discovery foi investigar se esse problema ocorre
 na prática, compreender suas consequências, identificar uma oportunidade
-de produto digital com apoio de inteligência artificial (IA) e avaliar
-se a proposta desperta interesse em potenciais usuários.
+de produto digital apoiado por inteligência artificial (IA) e avaliar
+se a proposta desperta o interesse de potenciais usuários.
 
 O foco desta etapa não foi construir um produto completo nem comprovar a
 viabilidade comercial definitiva. O objetivo foi reunir evidências
@@ -39,17 +39,17 @@ modelo.
 
 ### 2.1 Problema investigado
 
-A hipótese inicial era que parte dos MEIs e profissionais autônomos não
-possui um processo simples e consistente para controlar as finanças do
-negócio. Isso pode dificultar a separação entre despesas pessoais e
+A hipótese inicial era que parte dos MEIs e dos profissionais autônomos
+não possuía um processo simples e consistente para controlar as finanças
+do negócio. Isso pode dificultar a separação entre despesas pessoais e
 profissionais, a atualização dos registros e a compreensão de quanto o
 negócio realmente gera de resultado.
 
 Durante a investigação, o problema foi refinado. As respostas sugeriram
-que a dificuldade não se limita à mistura entre dinheiro pessoal e
-profissional. Também envolve manter os registros atualizados e
-interpretar os dados para compreender lucro, custos, dinheiro disponível
-e adequação dos preços.
+que a dificuldade não se limita à mistura entre o dinheiro pessoal e o
+profissional. Ela também envolve manter os registros atualizados e
+interpretar os dados para compreender o lucro, os custos, o dinheiro
+disponível e a adequação dos preços.
 
 **Formulação refinada do problema:**
 
@@ -69,10 +69,10 @@ mesma intensidade.
 A investigação começou considerando um público amplo:
 
 -   MEIs;
--   profissionais autônomos;
--   prestadores de serviços;
--   freelancers;
--   pequenos comerciantes e produtores.
+-   Profissionais autônomos;
+-   Prestadores de serviços;
+-   Freelancers;
+-   Pequenos comerciantes e produtores.
 
 As respostas indicaram que a oportunidade pode ser mais relevante para
 pessoas que trabalham por conta própria e ainda utilizam controles
@@ -95,11 +95,11 @@ cotidianas.
 
 Entre as necessidades identificadas estão:
 
--   saber quanto entrou, quanto saiu e quanto sobrou;
--   compreender custos e resultado por serviço, obra ou produto;
--   distinguir despesas pessoais e profissionais;
--   reduzir esquecimentos e a dependência de registros manuais;
--   receber alertas ou identificar situações que mereçam atenção.
+-   Saber quanto entrou, quanto saiu e quanto sobrou;
+-   Compreender custos e resultado por serviço, obra ou produto;
+-   Distinguir despesas pessoais e profissionais;
+-   Reduzir esquecimentos e a dependência de registros manuais;
+-   Receber alertas ou identificar situações que mereçam atenção.
 
 A oportunidade não depende necessariamente de oferecer muitas
 funcionalidades. A proposta inicial deve priorizar simplicidade de
@@ -112,114 +112,29 @@ apresentado de acordo com a evidência disponível ao final da validação.
 
 ### 3.1 Hipóteses de problema
 
-  -----------------------------------------------------------------------
-  ID                      Hipótese                Resultado ao encerrar a
-                                                  validação
-  ----------------------- ----------------------- -----------------------
-  HP01                    MEIs e profissionais    **Parcialmente
-                          autônomos               confirmada.** A mistura
-                          frequentemente misturam apareceu nas respostas,
-                          dinheiro pessoal e      mas não foi demonstrada
-                          profissional.           como o problema
-                                                  principal para todos os
-                                                  participantes.
+**HP01 — Mistura entre finanças pessoais e profissionais:** MEIs e profissionais autônomos frequentemente misturam o dinheiro pessoal e o dinheiro do negócio. **Resultado:** parcialmente confirmada. A mistura apareceu nas respostas, mas não foi demonstrada como o problema principal para todos os participantes.
 
-  HP01.1                  A mistura entre         **Parcialmente
-                          finanças pessoais e     confirmada.** Foram
-                          profissionais gera      relatadas dificuldades
-                          consequências           e consequências, mas a
-                          financeiras relevantes. amostra não permite
-                                                  generalizar a
-                                                  frequência ou a
-                                                  gravidade.
+**HP01.1 — Consequências da mistura financeira:** A mistura entre as finanças pessoais e profissionais gera consequências financeiras relevantes. **Resultado:** parcialmente confirmada. Foram relatadas dificuldades e consequências, mas a amostra não permite generalizar a frequência ou a gravidade desses efeitos.
 
-  HP02                    A dificuldade de manter **Sinal favorável.** As
-                          controle financeiro     respostas mencionaram
-                          está relacionada ao     falta de tempo,
-                          esforço, à falta de     esquecimento,
-                          tempo, ao esquecimento  dificuldade de
-                          ou à complexidade das   organização e
-                          ferramentas             dificuldade com
-                          disponíveis.            ferramentas. Não foi
-                                                  possível determinar uma
-                                                  causa única
-                                                  predominante.
+**HP02 — Barreiras ao controle financeiro:** A dificuldade de manter o controle financeiro está relacionada ao esforço exigido, à falta de tempo, ao esquecimento ou à complexidade das ferramentas disponíveis. **Resultado:** há sinais favoráveis. As respostas mencionaram falta de tempo, esquecimento, dificuldade de organização e dificuldade com ferramentas. Não foi possível determinar uma única causa predominante.
 
-  HP03                    Os usuários têm         **Reforçada pelas
-                          dificuldade para        respostas.** Surgiram
-                          entender o lucro real e necessidades
-                          usar os dados           relacionadas a lucro,
-                          financeiros em decisões custos, preços e
-                          práticas.               dinheiro disponível.
-  -----------------------------------------------------------------------
+**HP03 — Compreensão do resultado financeiro:** Os usuários têm dificuldade para entender o lucro real e utilizar os dados financeiros em decisões práticas. **Resultado:** hipótese reforçada pelas respostas. Surgiram necessidades relacionadas ao lucro, aos custos, aos preços e ao dinheiro disponível.
 
 ### 3.2 Hipóteses de solução
 
-  -----------------------------------------------------------------------
-  ID                      Hipótese                Resultado ao encerrar a
-                                                  validação
-  ----------------------- ----------------------- -----------------------
-  HS01                    Um processo simples de  **Ainda não validada em
-                          registro e organização  uso real.** As
-                          das movimentações pode  respostas demonstram
-                          reduzir o esforço do    interesse na
-                          controle financeiro.    simplicidade, mas não
-                                                  houve teste funcional
-                                                  que medisse a redução
-                                                  de esforço.
+**HS01 — Registro simplificado:** Um processo simples de registro e organização das movimentações pode reduzir o esforço necessário para o controle financeiro. **Resultado:** ainda não validada em uso real. As respostas demonstram interesse na simplicidade, mas não houve teste funcional que medisse a redução de esforço.
 
-  HS02                    Uma interface           **Não validada.**
-                          conversacional, como    Alguns respondentes
-                          WhatsApp, com           mencionaram
-                          possibilidade de        espontaneamente
-                          registrar informações   mensagens ou áudio, mas
-                          por texto ou áudio será não foi realizado um
-                          conveniente para o      teste comparativo de
-                          público.                canais.
+**HS02 — Interface conversacional:** Uma interface conversacional, como o WhatsApp, com possibilidade de registrar informações por texto ou áudio, será conveniente para o público. **Resultado:** não validada. Alguns respondentes mencionaram espontaneamente mensagens ou áudio, mas não foi realizado um teste comparativo entre canais.
 
-  HS03                    Relatórios e            **Sinal favorável,
-                          informações simples     ainda não comprovado
-                          sobre receitas,         por uso.** Os
-                          despesas e lucro        respondentes
-                          ajudarão o usuário a    manifestaram interesse
-                          compreender melhor o    nessas informações, mas
-                          resultado do negócio.   não utilizaram um
-                                                  relatório funcional da
-                                                  solução.
-  -----------------------------------------------------------------------
+**HS03 — Relatórios financeiros claros:** Relatórios e informações simples sobre receitas, despesas e lucro ajudarão o usuário a compreender melhor o resultado do negócio. **Resultado:** há um sinal favorável, ainda não comprovado pelo uso. Os respondentes manifestaram interesse nessas informações, mas não utilizaram um relatório funcional da solução.
 
 ### 3.3 Hipóteses de valor
 
-  -----------------------------------------------------------------------
-  ID                      Hipótese                Resultado ao encerrar a
-                                                  validação
-  ----------------------- ----------------------- -----------------------
-  HV01                    Uma visão clara do      **Reforçada como
-                          resultado financeiro    necessidade
-                          ajudará o usuário a     percebida.** Os relatos
-                          tomar decisões melhores indicaram relevância
-                          sobre custos, preços e  dessas decisões, mas
-                          retiradas.              ainda não comprovam
-                                                  mudança efetiva de
-                                                  comportamento.
+**HV01 — Apoio à tomada de decisão:** Uma visão clara do resultado financeiro ajudará o usuário a tomar decisões melhores sobre custos, preços e retiradas. **Resultado:** hipótese reforçada como necessidade percebida. Os relatos indicaram a relevância dessas decisões, mas ainda não comprovam uma mudança efetiva de comportamento.
 
-  HV02                    Usuários perceberão     **Parcialmente
-                          valor suficiente para   sustentada.** Entre 15
-                          demonstrar interesse em respondentes, 6
-                          experimentar a solução. demonstraram interesse
-                                                  em testar
-                                                  gratuitamente, 6
-                                                  responderam "talvez" e
-                                                  3 não demonstraram
-                                                  interesse.
+**HV02 — Interesse em experimentar:** Os usuários perceberão valor suficiente para demonstrar interesse em experimentar a solução. **Resultado:** parcialmente sustentada. Entre 15 respondentes, 6 demonstraram interesse em testar gratuitamente, 6 responderam “talvez” e 3 não demonstraram interesse.
 
-  HV03                    Os usuários estarão     **Não validada.** O
-                          dispostos a pagar pelo  experimento avaliou
-                          produto.                interesse em um teste
-                                                  gratuito, não
-                                                  disposição real para
-                                                  pagar.
-  -----------------------------------------------------------------------
+**HV03 — Disposição a pagar:** Os usuários estarão dispostos a pagar pelo produto. **Resultado:** não validada. O experimento avaliou o interesse em um teste gratuito, não a disposição real para pagar.
 
 **Observação metodológica:** "parcialmente confirmada", "reforçada" e
 "sinal favorável" indicam o nível de evidência disponível nesta etapa, e
@@ -236,12 +151,12 @@ negócio.
 
 O fluxo ideal inicialmente imaginado incluía:
 
-1.  registro de uma movimentação por texto ou áudio;
-2.  classificação e categorização assistida por IA;
-3.  confirmação ou correção da informação pelo usuário;
-4.  organização dos dados financeiros;
-5.  apresentação de relatórios simples;
-6.  geração de alertas e insights para apoiar decisões.
+1.  Registro de uma movimentação por texto ou áudio;
+2.  Classificação e categorização assistida por ia;
+3.  Confirmação ou correção da informação pelo usuário;
+4.  Organização dos dados financeiros;
+5.  Apresentação de relatórios simples;
+6.  Geração de alertas e insights para apoiar decisões.
 
 A visão completa também considerava uma aplicação com banco de dados,
 interface de acompanhamento e integração com serviços de IA. Essa
@@ -251,22 +166,22 @@ necessário para validar a hipótese inicial.
 ### 4.2 MVP de validação
 
 O MVP foi definido de acordo com o objetivo de cada experimento,
-priorizando baixo custo e rapidez de aprendizagem.
+priorizando o baixo custo e a rapidez na obtenção de aprendizados.
 
 **Primeira etapa --- descoberta do problema**
 
--   formulário para levantar práticas atuais de controle financeiro;
--   perguntas sobre separação das finanças, dificuldades, frequência e
+-   Formulário para levantar práticas atuais de controle financeiro;
+-   Perguntas sobre separação das finanças, dificuldades, frequência e
     consequências;
--   coleta de exemplos e relatos dos participantes.
+-   Coleta de exemplos e relatos dos participantes.
 
 **Segunda etapa --- teste de interesse pela proposta**
 
--   landing page pública do Ozzy Finances;
--   apresentação da proposta de valor e de exemplos ilustrativos;
--   chamada para ação para manifestar interesse em participar de um
+-   Landing page pública do ozzy finances;
+-   Apresentação da proposta de valor e de exemplos ilustrativos;
+-   Chamada para ação para manifestar interesse em participar de um
     teste gratuito;
--   formulário de interesse conectado a uma planilha para registrar as
+-   Formulário de interesse conectado a uma planilha para registrar as
     respostas.
 
 Landing page divulgada: <https://ozzy-finances.my.canva.site/>
@@ -279,12 +194,12 @@ avaliaram a descrição da solução, sem utilizar o produto completo.
 
 Nesta etapa, não foi necessário desenvolver:
 
--   aplicativo completo;
--   banco de dados de produção;
--   integração funcional com WhatsApp;
--   categorização financeira automatizada em ambiente real;
--   painel financeiro conectado a movimentações reais;
--   mecanismo de cobrança ou assinatura.
+-   Aplicativo completo;
+-   Banco de dados de produção;
+-   Integração funcional com whatsapp;
+-   Categorização financeira automatizada em ambiente real;
+-   Painel financeiro conectado a movimentações reais;
+-   Mecanismo de cobrança ou assinatura.
 
 Esses itens só deveriam ser priorizados depois que a proposta de valor e
 as necessidades essenciais fossem melhor compreendidas.
@@ -292,7 +207,7 @@ as necessidades essenciais fossem melhor compreendidas.
 ## 5. Como a IA foi utilizada durante o processo de Discovery
 
 A IA foi empregada como ferramenta de apoio ao raciocínio e à execução
-do processo, sem substituir a coleta de evidências com potenciais
+do processo, sem substituir a coleta de evidências junto a potenciais
 usuários.
 
 ### 5.1 Exploração e organização de ideias
@@ -312,8 +227,8 @@ previamente escolhida.
 ### 5.3 Construção dos artefatos de validação
 
 A IA auxiliou na estruturação do formulário, na definição da proposta de
-valor, na organização do conteúdo da landing page e no planejamento dos
-critérios de sucesso do experimento.
+valor, na organização do conteúdo da landing page e no estabelecimento
+dos critérios de sucesso do experimento.
 
 ### 5.4 Organização e interpretação das respostas
 
@@ -333,11 +248,11 @@ interesse.
 Também não foram tratados como comprovados, apenas por terem sido
 sugeridos pela IA:
 
--   a existência de um mercado comercialmente viável;
--   a disposição dos usuários para pagar;
--   a preferência geral por WhatsApp ou áudio;
--   a eficácia da categorização automática;
--   a melhoria efetiva das decisões financeiras.
+-   A existência de um mercado comercialmente viável;
+-   A disposição dos usuários para pagar;
+-   A preferência geral por whatsapp ou áudio;
+-   A eficácia da categorização automática;
+-   A melhoria efetiva das decisões financeiras.
 
 A validação foi orientada pelos dados coletados com pessoas reais,
 conforme o princípio de que a IA apoia a descoberta, mas não valida o
@@ -360,12 +275,12 @@ utilizadas e necessidades de informação.
 
 **Critérios inicialmente considerados:**
 
--   pelo menos 4 de 5 participantes confirmariam a mistura entre
+-   Pelo menos 4 de 5 participantes confirmariam a mistura entre
     finanças pessoais e profissionais;
--   pelo menos 3 de 5 registrariam movimentações durante sete dias em um
+-   Pelo menos 3 de 5 registrariam movimentações durante sete dias em um
     teste acompanhado;
--   pelo menos 4 de 5 considerariam útil o relatório;
--   pelo menos 3 de 5 demonstrariam disposição para pagar R\$ 30 ou mais
+-   Pelo menos 4 de 5 considerariam útil o relatório;
+-   Pelo menos 3 de 5 demonstrariam disposição para pagar r\$ 30 ou mais
     por mês.
 
 Os critérios de registro durante sete dias, utilidade de relatório e
@@ -422,13 +337,13 @@ foi possível calcular a taxa de conversão da página.
 Antes da divulgação, foram considerados os seguintes parâmetros internos
 para avaliar o experimento:
 
--   alcançar de 20 a 30 visitantes qualificados;
--   pelo menos 30% dos visitantes chegarem à chamada para ação;
--   pelo menos 15% clicarem na chamada para ação;
--   pelo menos 10% concluírem o formulário;
--   obter pelo menos 5 pessoas qualificadas dispostas a participar do
+-   Alcançar de 20 a 30 visitantes qualificados;
+-   Pelo menos 30% dos visitantes chegarem à chamada para ação;
+-   Pelo menos 15% clicarem na chamada para ação;
+-   Pelo menos 10% concluírem o formulário;
+-   Obter pelo menos 5 pessoas qualificadas dispostas a participar do
     teste;
--   identificar pelo menos 3 comentários espontâneos alinhados ao
+-   Identificar pelo menos 3 comentários espontâneos alinhados ao
     problema investigado.
 
 Esses valores eram **limiares internos definidos para orientar a
@@ -509,24 +424,24 @@ desenvolvimento completo do produto.
 
 Essa decisão se apoia nos seguintes sinais:
 
--   foram relatadas dificuldades concretas para manter controles
+-   Foram relatadas dificuldades concretas para manter controles
     financeiros atualizados;
--   apareceram necessidades relacionadas a entender lucro, custos,
+-   Apareceram necessidades relacionadas a entender lucro, custos,
     preços e dinheiro disponível;
--   6 de 15 respondentes manifestaram interesse explícito em testar
+-   6 De 15 respondentes manifestaram interesse explícito em testar
     gratuitamente;
--   as respostas indicam que a clareza financeira e a redução do esforço
+-   As respostas indicam que a clareza financeira e a redução do esforço
     de registro podem ser mais relevantes do que o uso de IA,
     isoladamente.
 
-A decisão também considera as limitações:
+A decisão também leva em consideração as seguintes limitações:
 
--   amostras pequenas nas etapas de descoberta;
--   ausência de teste funcional da solução;
--   ausência de dados completos de tráfego e conversão da landing page;
--   falta de validação de uso recorrente;
--   disposição a pagar ainda não investigada;
--   ausência de comprovação da viabilidade comercial.
+-   Amostras pequenas nas etapas de descoberta;
+-   Ausência de teste funcional da solução;
+-   Ausência de dados completos de tráfego e conversão da landing page;
+-   Falta de validação de uso recorrente;
+-   Disposição a pagar ainda não investigada;
+-   Ausência de comprovação da viabilidade comercial.
 
 ### 8.2 Ajuste recomendado para a proposta de valor
 
@@ -554,46 +469,21 @@ banco de dados e interface própria.
 
 ## 9. Síntese para apresentação acadêmica
 
-  -----------------------------------------------------------------------
-  Elemento                            Síntese
-  ----------------------------------- -----------------------------------
-  Problema                            Dificuldade para manter controles
-                                      financeiros atualizados e
-                                      compreender o lucro real do
-                                      negócio.
+**Problema:** Dificuldade para manter os controles financeiros atualizados e compreender o lucro real do negócio.
 
-  Público prioritário sugerido        Pequenos prestadores de serviços e
-                                      profissionais autônomos com
-                                      controle financeiro informal ou
-                                      irregular.
+**Público prioritário sugerido:** Pequenos prestadores de serviços e profissionais autônomos com controle financeiro informal ou irregular.
 
-  Solução proposta                    Assistente financeiro que
-                                      simplifica o registro e organiza
-                                      receitas, despesas e informações
-                                      sobre o resultado.
+**Solução proposta:** Assistente financeiro que simplifica o registro e organiza receitas, despesas e informações sobre o resultado.
 
-  Papel da IA                         Apoiar classificação, organização,
-                                      síntese e geração de informações,
-                                      sem substituir a validação com
-                                      usuários.
+**Papel da IA:** Apoiar a classificação, a organização, a síntese e a geração de informações, sem substituir a validação com usuários.
 
-  Experimentos realizados             Formulário de descoberta do
-                                      problema e landing page com
-                                      formulário de manifestação de
-                                      interesse.
+**Experimentos realizados:** Formulário de descoberta do problema e landing page com formulário de manifestação de interesse.
 
-  Evidência de interesse              6 de 15 respondentes disseram ter
-                                      interesse em testar gratuitamente.
+**Evidência de interesse:** 6 de 15 respondentes disseram ter interesse em testar gratuitamente.
 
-  Hipótese ainda em aberto            Uso recorrente, eficácia prática,
-                                      preferência por canal, valor
-                                      adicional da IA e disposição a
-                                      pagar.
+**Hipóteses ainda em aberto:** Uso recorrente, eficácia prática, preferência por canal, valor adicional da IA e disposição a pagar.
 
-  Decisão                             **Perseguir com ajustes**, sem
-                                      desenvolver o produto completo
-                                      neste momento.
-  -----------------------------------------------------------------------
+**Decisão:** **Perseguir com ajustes**, sem desenvolver o produto completo neste momento.
 
 ------------------------------------------------------------------------
 
@@ -601,8 +491,8 @@ banco de dados e interface própria.
 
 A Product Discovery permitiu transformar uma ideia ampla de controle
 financeiro com IA em uma hipótese de produto mais específica: reduzir o
-esforço de controle financeiro e ajudar pequenos empreendedores a
-compreender o resultado real de seu trabalho.
+esforço necessário para controlar as finanças e ajudar pequenos
+empreendedores a compreender o resultado real de seu trabalho.
 
 Os experimentos trouxeram sinais favoráveis sobre a existência do
 problema e sobre o interesse inicial pela proposta. Contudo, não
