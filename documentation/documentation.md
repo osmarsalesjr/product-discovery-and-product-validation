@@ -5,51 +5,27 @@
 **Data de encerramento da validação:** outubro de 2026\
 **Status final:** **Perseguir com ajustes**\
 **Objetivo do documento:** registrar o problema investigado, as
-hipóteses formuladas, a solução inicialmente proposta, os experimentos
-realizados, os critérios de decisão e as conclusões sustentadas pelas
-evidências coletadas.
+hipóteses formuladas, a solução inicialmente proposta, os experimentos realizados, os critérios de decisão e as conclusões sustentadas pelas evidências coletadas.
 
 ------------------------------------------------------------------------
 
 ## 1. Contexto e objetivo da Product Discovery
 
-A proposta do Ozzy Finances surgiu da hipótese de que
-microempreendedores e profissionais autônomos enfrentam dificuldades
-para controlar as finanças do negócio, especialmente quando utilizam
-registros informais, não mantêm as movimentações atualizadas ou têm
-dificuldade para transformar receitas e despesas em informações úteis
-para tomar decisões.
+A proposta do Ozzy Finances surgiu da hipótese de que microempreendedores e profissionais autônomos enfrentam dificuldades para controlar as finanças do negócio, especialmente quando utilizam registros informais, não mantêm as movimentações atualizadas ou têm dificuldade para transformar receitas e despesas em informações úteis para tomar decisões.
 
-O objetivo da Product Discovery foi investigar se esse problema ocorre
-na prática, compreender suas consequências, identificar uma oportunidade
-de produto digital apoiado por inteligência artificial (IA) e avaliar
-se a proposta desperta o interesse de potenciais usuários.
+O objetivo da Product Discovery foi investigar se esse problema ocorre na prática, compreender suas consequências, identificar uma oportunidade de produto digital apoiado por inteligência artificial (IA) e avaliar se a proposta desperta o interesse de potenciais usuários.
 
-O foco desta etapa não foi construir um produto completo nem comprovar a
-viabilidade comercial definitiva. O objetivo foi reunir evidências
-suficientes para decidir se a ideia deveria ser perseguida, ajustada,
-pivotada ou abandonada.
+O foco desta etapa não foi construir um produto completo nem comprovar a viabilidade comercial definitiva. O objetivo foi reunir evidências suficientes para decidir se a ideia deveria ser perseguida, ajustada, pivotada ou abandonada.
 
-A IA foi utilizada como apoio ao processo de descoberta e organização
-das informações. A validação, entretanto, foi fundamentada nas respostas
-e manifestações de potenciais usuários, e não nas opiniões geradas pelo
-modelo.
+A IA foi utilizada como apoio ao processo de descoberta e organização das informações. A validação, entretanto, foi fundamentada nas respostas e manifestações de potenciais usuários, e não nas opiniões geradas pelo modelo.
 
 ## 2. Problema identificado, público e oportunidade
 
 ### 2.1 Problema investigado
 
-A hipótese inicial era que parte dos MEIs e dos profissionais autônomos
-não possuía um processo simples e consistente para controlar as finanças
-do negócio. Isso pode dificultar a separação entre despesas pessoais e
-profissionais, a atualização dos registros e a compreensão de quanto o
-negócio realmente gera de resultado.
+A hipótese inicial era que parte dos MEIs e dos profissionais autônomos não possuía um processo simples e consistente para controlar as finanças do negócio. Isso pode dificultar a separação entre despesas pessoais e profissionais, a atualização dos registros e a compreensão de quanto o negócio realmente gera de resultado.
 
-Durante a investigação, o problema foi refinado. As respostas sugeriram
-que a dificuldade não se limita à mistura entre o dinheiro pessoal e o
-profissional. Ela também envolve manter os registros atualizados e
-interpretar os dados para compreender o lucro, os custos, o dinheiro
-disponível e a adequação dos preços.
+Durante a investigação, o problema foi refinado. As respostas sugeriram que a dificuldade não se limita à mistura entre o dinheiro pessoal e o profissional. Ela também envolve manter os registros atualizados e interpretar os dados para compreender o lucro, os custos, o dinheiro disponível e a adequação dos preços.
 
 **Formulação refinada do problema:**
 
@@ -60,38 +36,28 @@ disponível e a adequação dos preços.
 > preços, controlar custos, retirar dinheiro para uso pessoal e avaliar
 > o resultado de cada serviço ou produto.
 
-Essa formulação representa a interpretação das evidências iniciais. Não
-significa que todas as pessoas do público enfrentem o problema com a
-mesma intensidade.
+Essa formulação representa a interpretação das evidências iniciais. Não significa que todas as pessoas do público enfrentem o problema com a mesma intensidade.
 
 ### 2.2 Público inicialmente considerado
 
 A investigação começou considerando um público amplo:
 
--   MEIs;
+-   Meis;
 -   Profissionais autônomos;
 -   Prestadores de serviços;
 -   Freelancers;
 -   Pequenos comerciantes e produtores.
 
-As respostas indicaram que a oportunidade pode ser mais relevante para
-pessoas que trabalham por conta própria e ainda utilizam controles
-informais, como anotações, cadernos ou registros irregulares.
+As respostas indicaram que a oportunidade pode ser mais relevante para pessoas que trabalham por conta própria e ainda utilizam controles informais, como anotações, cadernos ou registros irregulares.
 
 **Público prioritário sugerido para uma próxima etapa:** pequenos
-prestadores de serviços e profissionais autônomos que não mantêm um
-controle financeiro consistente e têm dificuldade para identificar
-quanto realmente lucram.
+prestadores de serviços e profissionais autônomos que não mantêm um controle financeiro consistente e têm dificuldade para identificar quanto realmente lucram.
 
-Essa priorização é uma decisão de foco para futuras validações, não uma
-comprovação de que esse segmento seja definitivamente o melhor mercado.
+Essa priorização é uma decisão de foco para futuras validações, não uma comprovação de que esse segmento seja definitivamente o melhor mercado.
 
 ### 2.3 Oportunidade identificada
 
-A oportunidade consiste em reduzir o esforço necessário para registrar e
-organizar movimentações financeiras e, principalmente, transformar esses
-registros em informações compreensíveis e úteis para decisões
-cotidianas.
+A oportunidade consiste em reduzir o esforço necessário para registrar e organizar movimentações financeiras e, principalmente, transformar esses registros em informações compreensíveis e úteis para decisões cotidianas.
 
 Entre as necessidades identificadas estão:
 
@@ -101,14 +67,11 @@ Entre as necessidades identificadas estão:
 -   Reduzir esquecimentos e a dependência de registros manuais;
 -   Receber alertas ou identificar situações que mereçam atenção.
 
-A oportunidade não depende necessariamente de oferecer muitas
-funcionalidades. A proposta inicial deve priorizar simplicidade de
-registro e clareza do resultado financeiro.
+A oportunidade não depende necessariamente de oferecer muitas funcionalidades. A proposta inicial deve priorizar simplicidade de registro e clareza do resultado financeiro.
 
 ## 3. Hipóteses de problema, solução e valor
 
-As hipóteses foram organizadas em três grupos. O resultado de cada uma é
-apresentado de acordo com a evidência disponível ao final da validação.
+As hipóteses foram organizadas em três grupos. O resultado de cada uma é apresentado de acordo com a evidência disponível ao final da validação.
 
 ### 3.1 Hipóteses de problema
 
@@ -137,17 +100,13 @@ apresentado de acordo com a evidência disponível ao final da validação.
 **HV03 — Disposição a pagar:** Os usuários estarão dispostos a pagar pelo produto. **Resultado:** não validada. O experimento avaliou o interesse em um teste gratuito, não a disposição real para pagar.
 
 **Observação metodológica:** "parcialmente confirmada", "reforçada" e
-"sinal favorável" indicam o nível de evidência disponível nesta etapa, e
-não uma prova estatística de validade da hipótese.
+"sinal favorável" indicam o nível de evidência disponível nesta etapa, e não uma prova estatística de validade da hipótese.
 
 ## 4. Solução inicialmente proposta e definição do MVP
 
 ### 4.1 Visão inicial da solução
 
-O Ozzy Finances foi concebido como um assistente financeiro com apoio de
-IA para ajudar MEIs e profissionais autônomos a registrar movimentações,
-organizar receitas e despesas e compreender melhor o resultado do
-negócio.
+O Ozzy Finances foi concebido como um assistente financeiro com apoio de IA para ajudar MEIs e profissionais autônomos a registrar movimentações, organizar receitas e despesas e compreender melhor o resultado do negócio.
 
 O fluxo ideal inicialmente imaginado incluía:
 
@@ -158,37 +117,29 @@ O fluxo ideal inicialmente imaginado incluía:
 5.  Apresentação de relatórios simples;
 6.  Geração de alertas e insights para apoiar decisões.
 
-A visão completa também considerava uma aplicação com banco de dados,
-interface de acompanhamento e integração com serviços de IA. Essa
-arquitetura permaneceu como uma possibilidade futura, não como algo
-necessário para validar a hipótese inicial.
+A visão completa também considerava uma aplicação com banco de dados, interface de acompanhamento e integração com serviços de IA. Essa arquitetura permaneceu como uma possibilidade futura, não como algo necessário para validar a hipótese inicial.
 
 ### 4.2 MVP de validação
 
-O MVP foi definido de acordo com o objetivo de cada experimento,
-priorizando o baixo custo e a rapidez na obtenção de aprendizados.
+O MVP foi definido de acordo com o objetivo de cada experimento, priorizando o baixo custo e a rapidez na obtenção de aprendizados.
 
 **Primeira etapa --- descoberta do problema**
 
 -   Formulário para levantar práticas atuais de controle financeiro;
--   Perguntas sobre separação das finanças, dificuldades, frequência e
-    consequências;
+-   Perguntas sobre separação das finanças, dificuldades, frequência e consequências;
 -   Coleta de exemplos e relatos dos participantes.
 
 **Segunda etapa --- teste de interesse pela proposta**
 
 -   Landing page pública do ozzy finances;
 -   Apresentação da proposta de valor e de exemplos ilustrativos;
--   Chamada para ação para manifestar interesse em participar de um
-    teste gratuito;
--   Formulário de interesse conectado a uma planilha para registrar as
-    respostas.
+-   Chamada para ação para manifestar interesse em participar de um teste gratuito;
+-   Formulário de interesse conectado a uma planilha para registrar as respostas.
 
 Landing page divulgada: <https://ozzy-finances.my.canva.site/>
 
 **Importante:** a landing page foi um MVP de validação da proposta e do
-interesse, não um MVP funcional do sistema financeiro. Os respondentes
-avaliaram a descrição da solução, sem utilizar o produto completo.
+interesse, não um MVP funcional do sistema financeiro. Os respondentes avaliaram a descrição da solução, sem utilizar o produto completo.
 
 ### 4.3 Limites de escopo
 
@@ -201,52 +152,35 @@ Nesta etapa, não foi necessário desenvolver:
 -   Painel financeiro conectado a movimentações reais;
 -   Mecanismo de cobrança ou assinatura.
 
-Esses itens só deveriam ser priorizados depois que a proposta de valor e
-as necessidades essenciais fossem melhor compreendidas.
+Esses itens só deveriam ser priorizados depois que a proposta de valor e as necessidades essenciais fossem melhor compreendidas.
 
 ## 5. Como a IA foi utilizada durante o processo de Discovery
 
-A IA foi empregada como ferramenta de apoio ao raciocínio e à execução
-do processo, sem substituir a coleta de evidências junto a potenciais
-usuários.
+A IA foi empregada como ferramenta de apoio ao raciocínio e à execução do processo, sem substituir a coleta de evidências junto a potenciais usuários.
 
 ### 5.1 Exploração e organização de ideias
 
-A IA auxiliou na exploração de oportunidades de produto digital, na
-organização das ideias e na estruturação de hipóteses iniciais de
-problema, solução e valor.
+A IA auxiliou na exploração de oportunidades de produto digital, na organização das ideias e na estruturação de hipóteses iniciais de problema, solução e valor.
 
 ### 5.2 Estruturação da investigação
 
-A IA apoiou a elaboração e a revisão das perguntas de descoberta, com
-foco em compreender comportamentos atuais, dificuldades, consequências e
-alternativas já utilizadas. A estratégia buscou evitar que as perguntas
-iniciais induzissem os participantes a concordar com uma solução
-previamente escolhida.
+A IA apoiou a elaboração e a revisão das perguntas de descoberta, com foco em compreender comportamentos atuais, dificuldades, consequências e alternativas já utilizadas. A estratégia buscou evitar que as perguntas iniciais induzissem os participantes a concordar com uma solução previamente escolhida.
 
 ### 5.3 Construção dos artefatos de validação
 
-A IA auxiliou na estruturação do formulário, na definição da proposta de
-valor, na organização do conteúdo da landing page e no estabelecimento
-dos critérios de sucesso do experimento.
+A IA auxiliou na estruturação do formulário, na definição da proposta de valor, na organização do conteúdo da landing page e no estabelecimento dos critérios de sucesso do experimento.
 
 ### 5.4 Organização e interpretação das respostas
 
-A IA foi utilizada como apoio à síntese dos dados coletados, à
-identificação de padrões nos relatos e à comparação entre as hipóteses
-iniciais e as evidências observadas.
+A IA foi utilizada como apoio à síntese dos dados coletados, à identificação de padrões nos relatos e à comparação entre as hipóteses iniciais e as evidências observadas.
 
-As interpretações foram tratadas como análises de apoio, sujeitas às
-limitações da amostra e à necessidade de conferir os relatos originais.
+As interpretações foram tratadas como análises de apoio, sujeitas às limitações da amostra e à necessidade de conferir os relatos originais.
 
 ### 5.5 Limites do uso da IA
 
-A IA não foi considerada evidência de demanda de mercado. Ela não
-substituiu entrevistas, respostas de usuários ou manifestações reais de
-interesse.
+A IA não foi considerada evidência de demanda de mercado. Ela não substituiu entrevistas, respostas de usuários ou manifestações reais de interesse.
 
-Também não foram tratados como comprovados, apenas por terem sido
-sugeridos pela IA:
+Também não foram tratados como comprovados, apenas por terem sido sugeridos pela IA:
 
 -   A existência de um mercado comercialmente viável;
 -   A disposição dos usuários para pagar;
@@ -254,55 +188,39 @@ sugeridos pela IA:
 -   A eficácia da categorização automática;
 -   A melhoria efetiva das decisões financeiras.
 
-A validação foi orientada pelos dados coletados com pessoas reais,
-conforme o princípio de que a IA apoia a descoberta, mas não valida o
-mercado sozinha.
+A validação foi orientada pelos dados coletados com pessoas reais, conforme o princípio de que a IA apoia a descoberta, mas não valida o mercado sozinha.
 
 ## 6. Experimentos escolhidos e critérios de sucesso
 
-A estratégia foi dividida em duas etapas complementares: descoberta do
-problema e teste inicial de interesse pela proposta.
+A estratégia foi dividida em duas etapas complementares: descoberta do problema e teste inicial de interesse pela proposta.
 
 ### 6.1 Experimento 1 --- descoberta do problema
 
 **Objetivo:** investigar se as dificuldades de controle financeiro
-ocorrem na prática e compreender como afetam o cotidiano dos
-participantes.
+ocorrem na prática e compreender como afetam o cotidiano dos participantes.
 
 **Método:** formulário com perguntas sobre perfil, métodos de controle,
-separação das finanças, dificuldades, consequências, ferramentas já
-utilizadas e necessidades de informação.
+separação das finanças, dificuldades, consequências, ferramentas já utilizadas e necessidades de informação.
 
 **Critérios inicialmente considerados:**
 
--   Pelo menos 4 de 5 participantes confirmariam a mistura entre
-    finanças pessoais e profissionais;
--   Pelo menos 3 de 5 registrariam movimentações durante sete dias em um
-    teste acompanhado;
+-   Pelo menos 4 de 5 participantes confirmariam a mistura entre finanças pessoais e profissionais;
+-   Pelo menos 3 de 5 registrariam movimentações durante sete dias em um teste acompanhado;
 -   Pelo menos 4 de 5 considerariam útil o relatório;
--   Pelo menos 3 de 5 demonstrariam disposição para pagar r\$ 30 ou mais
-    por mês.
+-   Pelo menos 3 de 5 demonstrariam disposição para pagar r\$ 30 ou mais por mês.
 
-Os critérios de registro durante sete dias, utilidade de relatório e
-disposição a pagar pertenciam ao plano de um teste acompanhado que não
-foi executado. Por isso, não devem ser apresentados como resultados
-alcançados.
+Os critérios de registro durante sete dias, utilidade de relatório e disposição a pagar pertenciam ao plano de um teste acompanhado que não foi executado. Por isso, não devem ser apresentados como resultados alcançados.
 
 **Resultado obtido:** foram analisadas 4 respostas na etapa inicial de
-descoberta. Os relatos sugeriram dificuldades relacionadas à manutenção
-dos registros, à clareza sobre o lucro e à tomada de decisões
-financeiras. A amostra foi pequena e não permitiu generalizações.
+descoberta. Os relatos sugeriram dificuldades relacionadas à manutenção dos registros, à clareza sobre o lucro e à tomada de decisões financeiras. A amostra foi pequena e não permitiu generalizações.
 
 **Limitação:** os resultados foram suficientes para refinar o problema e
-orientar o próximo experimento, mas não para concluir que a hipótese
-inicial sobre a mistura das finanças fosse universal ou central para
-todos os segmentos.
+orientar o próximo experimento, mas não para concluir que a hipótese inicial sobre a mistura das finanças fosse universal ou central para todos os segmentos.
 
 ### 6.2 Experimento 2 --- landing page e manifestação de interesse
 
 **Objetivo:** avaliar se a apresentação de uma solução para simplificar
-o controle financeiro e melhorar a clareza sobre o resultado do negócio
-despertaria interesse em potenciais usuários.
+o controle financeiro e melhorar a clareza sobre o resultado do negócio despertaria interesse em potenciais usuários.
 
 **Hipótese experimental:**
 
@@ -312,81 +230,56 @@ despertaria interesse em potenciais usuários.
 > demonstrarão interesse em experimentar essa solução.
 
 **Artefato:** landing page do Ozzy Finances com descrição da proposta,
-benefícios esperados, representação ilustrativa da solução e chamada
-para participar de um teste gratuito.
+benefícios esperados, representação ilustrativa da solução e chamada para participar de um teste gratuito.
 
 **Ação observada:** preenchimento voluntário do formulário de
 manifestação de interesse.
 
 **Resultados coletados:**
 
-  Indicador                                Resultado
-  -------------------------------------- -----------
-  Respostas ao formulário de interesse            15
-  Interesse em testar gratuitamente          6 (40%)
-  Talvez tenha interesse                     6 (40%)
-  Sem interesse no momento                   3 (20%)
+Indicador                                Resultado
+  -------------------------------------- ----------- Respostas ao formulário de interesse            15 Interesse em testar gratuitamente          6 (40%) Talvez tenha interesse                     6 (40%) Sem interesse no momento                   3 (20%)
 
-As porcentagens se referem exclusivamente às 15 respostas recebidas.
-Como o total de visitantes da landing page e o número de pessoas que
-visualizaram ou clicaram na chamada para ação não foram registrados, não
-foi possível calcular a taxa de conversão da página.
+As porcentagens se referem exclusivamente às 15 respostas recebidas. Como o total de visitantes da landing page e o número de pessoas que visualizaram ou clicaram na chamada para ação não foram registrados, não foi possível calcular a taxa de conversão da página.
 
 ### 6.3 Critérios de sucesso planejados para a landing page
 
-Antes da divulgação, foram considerados os seguintes parâmetros internos
-para avaliar o experimento:
+Antes da divulgação, foram considerados os seguintes parâmetros internos para avaliar o experimento:
 
 -   Alcançar de 20 a 30 visitantes qualificados;
 -   Pelo menos 30% dos visitantes chegarem à chamada para ação;
 -   Pelo menos 15% clicarem na chamada para ação;
 -   Pelo menos 10% concluírem o formulário;
--   Obter pelo menos 5 pessoas qualificadas dispostas a participar do
-    teste;
--   Identificar pelo menos 3 comentários espontâneos alinhados ao
-    problema investigado.
+-   Obter pelo menos 5 pessoas qualificadas dispostas a participar do teste;
+-   Identificar pelo menos 3 comentários espontâneos alinhados ao problema investigado.
 
-Esses valores eram **limiares internos definidos para orientar a
-decisão**, e não benchmarks de mercado.
+Esses valores eram **limiares internos definidos para orientar a decisão**, e não benchmarks de mercado.
 
 **Avaliação final dos critérios:**
 
--   Foram obtidas 15 respostas, mas o total de visitantes não foi
-    registrado.
--   Seis pessoas manifestaram interesse explícito em testar
-    gratuitamente, superando o limiar numérico de cinco interessados.
--   Não há dados suficientes para verificar os critérios baseados em
-    visitantes, visualizações ou cliques.
--   As respostas abertas revelaram dificuldades concretas relacionadas a
-    lucro, custos, preços e controle financeiro.
+-   Foram obtidas 15 respostas, mas o total de visitantes não foi registrado.
+-   Seis pessoas manifestaram interesse explícito em testar gratuitamente, superando o limiar numérico de cinco interessados.
+-   Não há dados suficientes para verificar os critérios baseados em visitantes, visualizações ou cliques.
+-   As respostas abertas revelaram dificuldades concretas relacionadas a lucro, custos, preços e controle financeiro.
 
-Portanto, o critério de cinco manifestações positivas foi atingido em
-quantidade absoluta, mas o conjunto de critérios não pode ser
-considerado integralmente comprovado. Além disso, o interesse declarado
-não comprova utilização recorrente, valor percebido após o uso ou
-disposição para pagar.
+Portanto, o critério de cinco manifestações positivas foi atingido em quantidade absoluta, mas o conjunto de critérios não pode ser considerado integralmente comprovado. Além disso, o interesse declarado não comprova utilização recorrente, valor percebido após o uso ou disposição para pagar.
 
 ## 7. Critérios previamente definidos para a decisão
 
-A estratégia de decisão considerou quatro caminhos possíveis. Os
-critérios abaixo devem ser entendidos como regras de orientação
-definidas para reduzir decisões baseadas apenas em preferência pessoal.
+A estratégia de decisão considerou quatro caminhos possíveis. Os critérios abaixo devem ser entendidos como regras de orientação definidas para reduzir decisões baseadas apenas em preferência pessoal.
 
 ### 7.1 Perseverar
 
 **Critério:** as principais hipóteses de problema, utilidade e interesse
-seriam sustentadas pelos resultados, e os indicadores de sucesso
-previamente definidos seriam atingidos.
+seriam sustentadas pelos resultados, e os indicadores de sucesso previamente definidos seriam atingidos.
 
 **Decisão correspondente:** manter a direção da solução e avançar para
-um teste de uso mais concreto, com um grupo pequeno de potenciais
-usuários.
+um teste de uso mais concreto, com um grupo pequeno de potenciais usuários.
 
 ### 7.2 Ajustar
 
 **Critério:** o problema seria confirmado, mas a proposta, o formato, o
-canal ou as funcionalidades inicialmente imaginadas não demonstrariam
-valor suficiente ou precisariam de refinamento.
+canal ou as funcionalidades inicialmente imaginadas não demonstrariam valor suficiente ou precisariam de refinamento.
 
 **Decisão correspondente:** manter o problema central e ajustar o
 público prioritário, a proposta de valor ou a forma de entrega.
@@ -394,8 +287,7 @@ público prioritário, a proposta de valor ou a forma de entrega.
 ### 7.3 Pivotar
 
 **Critério:** as evidências indicariam uma necessidade real, mas em
-outro segmento, com outra causa principal ou com uma solução
-significativamente diferente da inicialmente proposta.
+outro segmento, com outra causa principal ou com uma solução significativamente diferente da inicialmente proposta.
 
 **Decisão correspondente:** reformular a hipótese central e realizar
 nova validação antes de desenvolver.
@@ -403,36 +295,25 @@ nova validação antes de desenvolver.
 ### 7.4 Abandonar
 
 **Critério:** menos de 3 de 5 participantes confirmariam o problema e
-nenhum demonstraria disposição para pagar, ou as evidências apontariam
-baixa relevância da necessidade para o público investigado.
+nenhum demonstraria disposição para pagar, ou as evidências apontariam baixa relevância da necessidade para o público investigado.
 
 **Decisão correspondente:** interromper o desenvolvimento daquela
-proposta e registrar os aprendizados antes de selecionar outra
-oportunidade.
+proposta e registrar os aprendizados antes de selecionar outra oportunidade.
 
-O critério original de abandono foi concebido para uma investigação com
-cinco participantes e incluía disposição a pagar. Como o experimento
-final da landing page não mediu disposição a pagar, esse critério não
-pode ser considerado testado integralmente.
+O critério original de abandono foi concebido para uma investigação com cinco participantes e incluía disposição a pagar. Como o experimento final da landing page não mediu disposição a pagar, esse critério não pode ser considerado testado integralmente.
 
 ## 8. Veredito final da validação
 
 ### 8.1 Decisão: PERSEGUIR COM AJUSTES
 
-A decisão final é continuar explorando a oportunidade, mas sem iniciar o
-desenvolvimento completo do produto.
+A decisão final é continuar explorando a oportunidade, mas sem iniciar o desenvolvimento completo do produto.
 
 Essa decisão se apoia nos seguintes sinais:
 
--   Foram relatadas dificuldades concretas para manter controles
-    financeiros atualizados;
--   Apareceram necessidades relacionadas a entender lucro, custos,
-    preços e dinheiro disponível;
--   6 De 15 respondentes manifestaram interesse explícito em testar
-    gratuitamente;
--   As respostas indicam que a clareza financeira e a redução do esforço
-    de registro podem ser mais relevantes do que o uso de IA,
-    isoladamente.
+-   Foram relatadas dificuldades concretas para manter controles financeiros atualizados;
+-   Apareceram necessidades relacionadas a entender lucro, custos, preços e dinheiro disponível;
+-   6 De 15 respondentes manifestaram interesse explícito em testar gratuitamente;
+-   As respostas indicam que a clareza financeira e a redução do esforço de registro podem ser mais relevantes do que o uso de IA, isoladamente.
 
 A decisão também leva em consideração as seguintes limitações:
 
@@ -445,27 +326,19 @@ A decisão também leva em consideração as seguintes limitações:
 
 ### 8.2 Ajuste recomendado para a proposta de valor
 
-A proposta inicial enfatizava um assistente financeiro com IA. A partir
-das evidências, recomenda-se comunicar primeiro o resultado esperado:
+A proposta inicial enfatizava um assistente financeiro com IA. A partir das evidências, recomenda-se comunicar primeiro o resultado esperado:
 
 > **Um assistente financeiro simples que ajuda profissionais autônomos a
 > registrar suas movimentações e entender quanto realmente ganham,
 > gastam e lucram com o próprio trabalho.**
 
-A IA deve ser apresentada como um meio de reduzir o esforço e organizar
-informações, não como benefício suficiente por si só.
+A IA deve ser apresentada como um meio de reduzir o esforço e organizar informações, não como benefício suficiente por si só.
 
 ### 8.3 Próxima etapa recomendada
 
-Embora a validação acadêmica deste ciclo seja encerrada aqui, uma
-próxima etapa de produto deveria testar um protótipo simples com pessoas
-que manifestaram interesse. O teste deveria observar se elas conseguem
-registrar movimentações, interpretar o resultado e identificar utilidade
-concreta para uma decisão financeira.
+Embora a validação acadêmica deste ciclo seja encerrada aqui, uma próxima etapa de produto deveria testar um protótipo simples com pessoas que manifestaram interesse. O teste deveria observar se elas conseguem registrar movimentações, interpretar o resultado e identificar utilidade concreta para uma decisão financeira.
 
-Somente depois dessa evidência seria recomendável decidir quais
-funcionalidades automatizar e se faz sentido investir em integrações,
-banco de dados e interface própria.
+Somente depois dessa evidência seria recomendável decidir quais funcionalidades automatizar e se faz sentido investir em integrações, banco de dados e interface própria.
 
 ## 9. Síntese para apresentação acadêmica
 
@@ -489,20 +362,11 @@ banco de dados e interface própria.
 
 ## 10. Considerações finais
 
-A Product Discovery permitiu transformar uma ideia ampla de controle
-financeiro com IA em uma hipótese de produto mais específica: reduzir o
-esforço necessário para controlar as finanças e ajudar pequenos
-empreendedores a compreender o resultado real de seu trabalho.
+A Product Discovery permitiu transformar uma ideia ampla de controle financeiro com IA em uma hipótese de produto mais específica: reduzir o esforço necessário para controlar as finanças e ajudar pequenos empreendedores a compreender o resultado real de seu trabalho.
 
-Os experimentos trouxeram sinais favoráveis sobre a existência do
-problema e sobre o interesse inicial pela proposta. Contudo, não
-comprovam que a solução funcione na prática ou que exista disposição
-para pagar por ela.
+Os experimentos trouxeram sinais favoráveis sobre a existência do problema e sobre o interesse inicial pela proposta. Contudo, não comprovam que a solução funcione na prática ou que exista disposição para pagar por ela.
 
-O resultado desta etapa é, portanto, uma decisão fundamentada de
-**perseguir com ajustes**, preservando os aprendizados, reconhecendo as
-limitações das evidências e evitando investir prematuramente no
-desenvolvimento completo.
+O resultado desta etapa é, portanto, uma decisão fundamentada de **perseguir com ajustes**, preservando os aprendizados, reconhecendo as limitações das evidências e evitando investir prematuramente no desenvolvimento completo.
 
 ------------------------------------------------------------------------
 
@@ -510,5 +374,5 @@ desenvolvimento completo.
 
 - Repositório Github, [clique aqui.](https://github.com/osmarsalesjr/product-discovery-and-product-validation)
 - Vídeo apresentando a validação da hipótese no YouTube, [clique aqui.](https://www.youtube.com/watch?v=MxBH4tgNuDw)
-- Apresentação do vídeo em pptx, [clique aqui.](../presentation/ozzy_finances_pitch.pptx)
+- Apresentação do vídeo em pptx, [clique aqui.](https://github.com/osmarsalesjr/product-discovery-and-product-validation/blob/main/presentation/ozzy_finances_pitch.pptx)
 - Landing Page da Solução em Canvas, [clique aqui.](https://ozzy-finances.my.canva.site/)

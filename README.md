@@ -177,5 +177,5 @@ O Ozzy Finances investigou dificuldades de controle financeiro entre MEIs e prof
 
 - Repositório Github, [clique aqui.](https://github.com/osmarsalesjr/product-discovery-and-product-validation)
 - Vídeo apresentando a validação da hipótese no YouTube, [clique aqui.](https://www.youtube.com/watch?v=MxBH4tgNuDw)
-- Apresentação do vídeo em pptx, [clique aqui.](./presentation/ozzy_finances_pitch.pptx)
+- Apresentação do vídeo em pptx, [clique aqui.](https://github.com/osmarsalesjr/product-discovery-and-product-validation/blob/main/presentation/ozzy_finances_pitch.pptx)
 - Landing Page da Solução em Canvas, [clique aqui.](https://ozzy-finances.my.canva.site/)
