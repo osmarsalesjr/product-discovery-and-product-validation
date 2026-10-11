@@ -172,3 +172,10 @@ A decisão de investir em uma aplicação completa deveria ocorrer somente após
 ## Resumo executivo
 
 O Ozzy Finances investigou dificuldades de controle financeiro entre MEIs e profissionais autônomos. A descoberta inicial e a landing page apontaram sinais favoráveis para uma proposta centrada em simplicidade e clareza sobre lucro, custos e dinheiro disponível. Foram analisadas 4 respostas na etapa de descoberta e recebidas 15 manifestações na landing page; dessas, 6 foram explicitamente positivas para um teste gratuito. Como não houve teste funcional, não se pode afirmar que a solução já entrega valor ou que existe disposição a pagar. A decisão final é **perseguir com ajustes**, preservando os aprendizados e evitando desenvolver o produto completo antes de novas evidências.
+
+## Artefatos do Projeto
+
+- Repositório Github, [clique aqui.](https://github.com/osmarsalesjr/product-discovery-and-product-validation)
+- Vídeo apresentando a validação da hipótese no YouTube, [clique aqui.](https://www.youtube.com/watch?v=MxBH4tgNuDw)
+- Apresentação do vídeo em pptx, [clique aqui.](./presentation/ozzy_finances_pitch.pptx)
+- Landing Page da Solução em Canvas, [clique aqui.](https://ozzy-finances.my.canva.site/)
