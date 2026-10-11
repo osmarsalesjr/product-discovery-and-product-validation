@@ -194,3 +194,11 @@ O documento utiliza os nove blocos do Lean Canvas, modelo de síntese de hipóte
 
 - Lean Canvas — Leanstack: https://leanstack.com/
 - Ash Maurya, criador do Lean Canvas: https://ashmaurya.com/
+---
+
+## Artefatos do Projeto
+
+- Repositório Github, [clique aqui.](https://github.com/osmarsalesjr/product-discovery-and-product-validation)
+- Vídeo apresentando a validação da hipótese no YouTube, [clique aqui.](https://www.youtube.com/watch?v=MxBH4tgNuDw)
+- Apresentação do vídeo em pptx, [clique aqui.](../presentation/ozzy_finances_pitch.pptx)
+- Landing Page da Solução em Canvas, [clique aqui.](https://ozzy-finances.my.canva.site/)

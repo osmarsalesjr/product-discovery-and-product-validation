@@ -503,3 +503,12 @@ O resultado desta etapa é, portanto, uma decisão fundamentada de
 **perseguir com ajustes**, preservando os aprendizados, reconhecendo as
 limitações das evidências e evitando investir prematuramente no
 desenvolvimento completo.
+
+------------------------------------------------------------------------
+
+## 11. Artefatos do Projeto
+
+- Repositório Github, [clique aqui.](https://github.com/osmarsalesjr/product-discovery-and-product-validation)
+- Vídeo apresentando a validação da hipótese no YouTube, [clique aqui.](https://www.youtube.com/watch?v=MxBH4tgNuDw)
+- Apresentação do vídeo em pptx, [clique aqui.](../presentation/ozzy_finances_pitch.pptx)
+- Landing Page da Solução em Canvas, [clique aqui.](https://ozzy-finances.my.canva.site/)
